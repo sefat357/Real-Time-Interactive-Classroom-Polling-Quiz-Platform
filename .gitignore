@@ -1,0 +1,36 @@
+# Binaries
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/server
+
+# Database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+data/
+
+# Go test binaries and coverage
+*.test
+*.out
+
+# Environment variables
+.env
+.env.local
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Scratch & temp files
+tmp/
+scratch/
+node_modules/

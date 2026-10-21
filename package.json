@@ -1,0 +1,24 @@
+{
+  "name": "live-quiz-web-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefat357/Real-Time-Interactive-Classroom-Polling-Quiz-Platform.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sefat357/Real-Time-Interactive-Classroom-Polling-Quiz-Platform/issues"
+  },
+  "homepage": "https://github.com/sefat357/Real-Time-Interactive-Classroom-Polling-Quiz-Platform#readme",
+  "devDependencies": {
+    "chart.js": "^4.5.1",
+    "qrcode": "^1.5.4",
+    "tailwindcss": "^4.3.3"
+  }
+}
